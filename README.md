@@ -27,4 +27,4 @@ There's one more *method*.
 
 ### Add Images
 ##### For pngs/jpegs/jpgs
-<img src"https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/09/07/nuevo-logotipo-de-android.jpeg">
+<img src="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/09/07/nuevo-logotipo-de-android.jpeg">
