@@ -19,3 +19,8 @@ There's one more *method*.
 * Number 1
 * Number 2
 * Number 3
+
+### A list of Bullet Points
+- Number 1
+- Number 2
+- Number 3
