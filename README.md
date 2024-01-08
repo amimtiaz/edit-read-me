@@ -31,4 +31,4 @@ There's one more *method*.
 
 <img src="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/09/07/nuevo-logotipo-de-android.jpeg">
 
-![alt text](https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/09/07/nuevo-logotipo-de-android.jpeg)
+![alt text](https://www.cnet.com/a/img/resize/efb6e9622f3de7b9b38d26099374125114e6a32e/hub/2023/09/05/d71be32e-75d3-4745-8c14-d6c0c38e14f5/screen-shot-2023-09-05-at-12-08-45-pm.png?auto=webp&fit=crop&height=675&width=1200)
